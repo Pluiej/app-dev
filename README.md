@@ -11,7 +11,7 @@ Fantasy drama, with elements of action and political intrigue.
   Daenerys Targaryen - **"The Mother of Dragons"**
   Viserys Targaryen
   Khal Drogo
-  Jorah Mormont
+  Jorah Mormont  
 **House Stark**
   Eddard Stark
   Jon Snow
